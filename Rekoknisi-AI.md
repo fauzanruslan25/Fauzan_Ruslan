@@ -38,8 +38,10 @@ b. Fahrenheit ke Celcius
 
 c. Celcius ke Reamur
 
-
+- Pada Flowgorithm
 ![C to R](https://user-images.githubusercontent.com/93021288/139215303-3306538d-29c4-4c70-aa33-9daf373e10f6.png)
+
+- Pada VSCode
 ![F to C -py](https://user-images.githubusercontent.com/93021288/139215355-15cb6620-74fa-4dc1-9a55-7e8f73875750.png)
 
 d. Celcius ke Fahrenheit
