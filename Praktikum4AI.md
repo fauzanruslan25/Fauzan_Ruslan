@@ -1,4 +1,4 @@
-# Praktikum Individu 9 Artificial Intelligence - Fauzan Ruslan
+# Praktikum Individu 4 Artificial Intelligence - Fauzan Ruslan
 
 
 1. Menghitung Skala Peta
